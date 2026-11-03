@@ -1,0 +1,40 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-marinho: #1a3c8f;
+  --color-marinho-escuro: #122a66;
+  --color-coral: #ff7a45;
+  --color-coral-escuro: #e85f2a;
+  --color-cinza: #5a6376;
+  --color-texto: #20242c;
+  --color-superficie: #f5f6fa;
+  --color-borda: #e2e4ea;
+
+  --font-sans:
+    'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif;
+
+  --radius-marca: 12px;
+  --shadow-marca: 0 10px 30px rgba(26, 60, 143, 0.12);
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 5rem;
+  }
+
+  body {
+    @apply bg-white font-sans leading-normal text-texto antialiased;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-bold leading-tight text-marinho;
+  }
+
+  button {
+    @apply cursor-pointer;
+  }
+}

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 320" role="img" aria-label="Rajada de 12 quadros do burst mode com a IA elegendo o melhor quadro">
+  <rect x="0" y="0" width="700" height="320" rx="20" fill="#f5f6fa" />
+
+  <g opacity="0.55">
+    <rect x="60" y="70" width="120" height="150" rx="10" fill="#c7cfe8" transform="rotate(-10 120 145)" />
+    <rect x="90" y="60" width="120" height="150" rx="10" fill="#aebbe0" transform="rotate(-5 150 135)" />
+    <rect x="120" y="55" width="120" height="150" rx="10" fill="#94a5d8" transform="rotate(2 180 130)" />
+    <rect x="150" y="65" width="120" height="150" rx="10" fill="#7c90cf" transform="rotate(8 210 140)" />
+  </g>
+
+  <rect x="230" y="70" width="150" height="180" rx="14" fill="#ffffff" stroke="#ff7a45" stroke-width="5" />
+  <circle cx="305" cy="150" r="30" fill="none" stroke="#ff7a45" stroke-width="3" stroke-dasharray="5 5" />
+  <path d="M292 150 l10 10 l18 -22" stroke="#ff7a45" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="305" y="268" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="14" font-weight="700" fill="#ff7a45">melhor quadro</text>
+
+  <g opacity="0.55">
+    <rect x="430" y="65" width="120" height="150" rx="10" fill="#7c90cf" transform="rotate(-8 490 140)" />
+    <rect x="460" y="55" width="120" height="150" rx="10" fill="#94a5d8" transform="rotate(-2 520 130)" />
+    <rect x="490" y="60" width="120" height="150" rx="10" fill="#aebbe0" transform="rotate(5 550 135)" />
+    <rect x="520" y="70" width="120" height="150" rx="10" fill="#c7cfe8" transform="rotate(10 580 145)" />
+  </g>
+
+  <text x="350" y="30" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="18" font-weight="700" fill="#1a3c8f">12 quadros · IA elege o melhor</text>
+</svg>

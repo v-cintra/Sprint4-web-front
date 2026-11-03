@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 400" role="img" aria-label="Mao segurando o smartphone com o polegar alcancando o Dynamic Action Button na zona de conforto">
+  <rect x="0" y="0" width="500" height="400" rx="20" fill="#f5f6fa" />
+
+  <rect x="170" y="40" width="180" height="340" rx="34" fill="#1a3c8f" />
+  <rect x="184" y="62" width="152" height="272" rx="16" fill="#0e1730" />
+
+  <path d="M300 200 Q 340 210 350 260 Q 356 300 320 330 Q 280 355 250 340 Q 230 328 232 300"
+        fill="#f2c9a0" stroke="#e0ab7a" stroke-width="2" />
+  <path d="M300 200 Q 330 195 345 220 Q 355 240 340 255"
+        fill="#f6d7b3" stroke="#e0ab7a" stroke-width="2" />
+
+  <circle cx="260" cy="310" r="34" fill="none" stroke="#ff7a45" stroke-width="3" stroke-dasharray="6 6" />
+  <circle cx="260" cy="310" r="16" fill="#ff7a45" />
+
+  <text x="250" y="30" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="16" font-weight="700" fill="#1a3c8f">Alcance natural do polegar</text>
+</svg>

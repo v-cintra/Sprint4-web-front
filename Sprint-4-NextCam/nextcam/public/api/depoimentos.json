@@ -1,0 +1,11 @@
+{
+  "estatisticas": [
+    { "id": 1, "valor": "84%", "texto": "reconheceram o problema de fotos borradas em eventos sociais" },
+    { "id": 2, "valor": "73%", "texto": "preferem uma câmera que decida por eles em vez de configurar modos" },
+    { "id": 3, "valor": "61%", "texto": "trocariam de aparelho por uma IA que entenda o contexto" }
+  ],
+  "depoimentos": [
+    { "id": 1, "texto": "Eu nem abro os modos avançados — se a câmera fizer sozinha, é perfeito.", "autor": "Estudante, 20 anos" },
+    { "id": 2, "texto": "Minha maior dor é perder a foto do rolê. Se a IA avisar, eu compro.", "autor": "Estudante, 22 anos" }
+  ]
+}
